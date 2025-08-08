@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\SimpleAuthenticationLoop\bin\Debug\SimpleAuthenticationLoop.exe.config
+C:\Users\HP\source\repos\SimpleAuthenticationLoop\bin\Debug\SimpleAuthenticationLoop.exe
+C:\Users\HP\source\repos\SimpleAuthenticationLoop\bin\Debug\SimpleAuthenticationLoop.pdb
+C:\Users\HP\source\repos\SimpleAuthenticationLoop\obj\Debug\SimpleAuthenticationLoop.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SimpleAuthenticationLoop\obj\Debug\SimpleAuthenticationLoop.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SimpleAuthenticationLoop\obj\Debug\SimpleAuthenticationLoop.exe
+C:\Users\HP\source\repos\SimpleAuthenticationLoop\obj\Debug\SimpleAuthenticationLoop.pdb
